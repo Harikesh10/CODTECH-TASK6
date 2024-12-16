@@ -1,9 +1,5 @@
-- **Name:** Harikesh
-##### **Company:** CODTECH IT SOLUTIONS
-##### **ID:** CT08DS9875
-##### **Domain:** Machine Learning
-##### **Duration:** November 30th 2024 to December 30th 2024
-##### **Mentor:** MR.Neela Santhosh Kumar
+**Name:** Harikesh
+
 
 🌟 Cool Text-to-Image Generator 🌟
 
