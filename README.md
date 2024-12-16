@@ -93,4 +93,8 @@ This project uses the **Stable Diffusion v1.5** model from `runwayml`, loaded vi
 
 ---
 
+## Image
+![Screenshot 2024-12-16 134728](https://github.com/user-attachments/assets/ec3678b1-6570-4708-abe4-b0c1d8b433b2)
+
+
 
