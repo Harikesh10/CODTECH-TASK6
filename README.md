@@ -6,7 +6,8 @@
 ##### **Mentor:** MR.Neela Santhosh Kumar
 ##### **Task:** TASK 6: Text to image generation 
 
-🌟 Cool Text-to-Image Generator 🌟
+
+# 🌟 Cool Text-to-Image Generator 🌟
 
 Welcome to the **Cool Text-to-Image Generator**! This app uses the Stable Diffusion model to generate stunning images from your text prompts. Let your creativity flow and see your ideas come to life! 🎨✨
 
